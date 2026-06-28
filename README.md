@@ -2,6 +2,12 @@
 *Este proyecto consiste en la implementación de una interfaz interactiva para una tienda en línea. El objetivo principal es manipular el DOM (Document Object Model) mediante JavaScript para gestionar la cantidad de productos seleccionados y calcular dinámicamente el costo total a pagar.*
 
 ---
+## Desafío: Calculadora de Total de Producto
+
+[![Demo en Vivo](https://img.shields.io/badge/Ver-Proyecto-brightgreen?style=for-the-badge&logo=github)](https://jleival.github.io/desafio1-javascript-calculando-el-total/)
+
+Este proyecto consiste en la implementación de una interfaz interactiva para una tienda en línea...
+---
 ## 🚀 Descripción del Proyecto
 La aplicación permite al usuario interactuar con una tarjeta de producto "Laptop Gamer AMD". A través de botones de incremento (+) y decremento (-), el usuario puede ajustar la cantidad deseada, viendo en tiempo real cómo se actualiza el subtotal en la interfaz.
 
